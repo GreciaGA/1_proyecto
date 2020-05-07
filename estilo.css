@@ -1,0 +1,65 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    margin: 0;
+    width: 100%;
+}
+
+.header{
+    background-color: gray;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+.aside{
+    background-color: gray;
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    height: 100%;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+}
+
+.respiestascorrectas{
+    background-color: lightseagreen;
+    width: 50%;
+    text-align: center;
+    /* display: inline-block; */
+}
+.respuestasincorrectas{
+    background-color: linen;
+    width: 50%;
+    text-align: center;
+    /* display: inline-block; */
+}
+.desc{
+    height: 150px;
+}
+
+img{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    align-items: ;
+}
+
+
+
+.footer{
+    background-color: gray;
+    height: 100px;
+    margin-top: 15px;
+}
